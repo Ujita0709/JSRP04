@@ -4,7 +4,7 @@ import SimpleForm from "./SimpleForm";
 import MultiForm from "./MultiForm";
 import DeleteList from "./DeleteList";
 import EventPropagation from "./EventPropagation";
-//import DoubleNumber from "./DoubleNumber";
+import DoubleNumber from "./DoubleNumber";
 
 function App() {
   return (
@@ -19,11 +19,11 @@ function App() {
       
       <MultiForm /> 
       
-      <DeleteList /> */}
+      <DeleteList /> 
       
-      <EventPropagation /> 
+      <EventPropagation /> */}
       
-      {/*<DoubleNumber /> */}
+      <DoubleNumber /> 
     </div>
   );
 }
