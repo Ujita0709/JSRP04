@@ -1,8 +1,8 @@
 import ClickCounter from "./ClickCounter";
 import TextInput from "./TextInput";
 import SimpleForm from "./SimpleForm";
-/*import MultiForm from "./MultiForm";
-import DeleteList from "./DeleteList";
+import MultiForm from "./MultiForm";
+/*import DeleteList from "./DeleteList";
 import EventPropagation from "./EventPropagation";
 import DoubleNumber from "./DoubleNumber";*/
 
@@ -13,13 +13,13 @@ function App() {
 
      {/* <ClickCounter /> 
       
-      <TextInput /> */}
+      <TextInput />
       
-      <SimpleForm />
+      <SimpleForm /> */}
       
-      {/*<MultiForm />
+      <MultiForm />
       
-      <DeleteList />
+      {/*<DeleteList />
       
       <EventPropagation />
       
