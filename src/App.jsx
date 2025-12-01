@@ -1,6 +1,6 @@
 import ClickCounter from "./ClickCounter";
-/*import TextInput from "./TextInput";
-import SimpleForm from "./SimpleForm";
+import TextInput from "./TextInput";
+/*import SimpleForm from "./SimpleForm";
 import MultiForm from "./MultiForm";
 import DeleteList from "./DeleteList";
 import EventPropagation from "./EventPropagation";
@@ -11,11 +11,11 @@ function App() {
     <div>
       <h1>React イベント処理 練習</h1>
 
-      <ClickCounter />
+     {/* <ClickCounter /> */}
       
-      {/*<TextInput />
+      <TextInput />
       
-      <SimpleForm />
+      {/*<SimpleForm />
       
       <MultiForm />
       
