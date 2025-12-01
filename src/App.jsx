@@ -2,9 +2,9 @@ import ClickCounter from "./ClickCounter";
 import TextInput from "./TextInput";
 import SimpleForm from "./SimpleForm";
 import MultiForm from "./MultiForm";
-/*import DeleteList from "./DeleteList";
-import EventPropagation from "./EventPropagation";
-import DoubleNumber from "./DoubleNumber";*/
+import DeleteList from "./DeleteList";
+//import EventPropagation from "./EventPropagation";
+//import DoubleNumber from "./DoubleNumber";
 
 function App() {
   return (
@@ -15,13 +15,13 @@ function App() {
       
       <TextInput />
       
-      <SimpleForm /> */}
+      <SimpleForm /> 
       
-      <MultiForm />
+      <MultiForm /> */}
       
-      {/*<DeleteList />
+      <DeleteList /> 
       
-      <EventPropagation />
+      {/*<EventPropagation /> 
       
       <DoubleNumber /> */}
     </div>
