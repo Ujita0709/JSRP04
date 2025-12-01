@@ -3,7 +3,7 @@ import TextInput from "./TextInput";
 import SimpleForm from "./SimpleForm";
 import MultiForm from "./MultiForm";
 import DeleteList from "./DeleteList";
-//import EventPropagation from "./EventPropagation";
+import EventPropagation from "./EventPropagation";
 //import DoubleNumber from "./DoubleNumber";
 
 function App() {
@@ -17,13 +17,13 @@ function App() {
       
       <SimpleForm /> 
       
-      <MultiForm /> */}
+      <MultiForm /> 
       
-      <DeleteList /> 
+      <DeleteList /> */}
       
-      {/*<EventPropagation /> 
+      <EventPropagation /> 
       
-      <DoubleNumber /> */}
+      {/*<DoubleNumber /> */}
     </div>
   );
 }
